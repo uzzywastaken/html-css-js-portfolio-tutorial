@@ -430,3 +430,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.attributes-container p {
+  text-align: center;
+  font-size: x-small;
+}
